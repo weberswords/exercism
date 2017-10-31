@@ -50,7 +50,6 @@ public class RnaTranscriptionTest {
         rnaTranscription.transcribe("U");
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testRnaTranscriptionOfInvalidInputThrowsAnError() {
         expectedException.expect(IllegalArgumentException.class);
@@ -58,7 +57,6 @@ public class RnaTranscriptionTest {
         rnaTranscription.transcribe("XXX");
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testRnaTranscriptionOfPartiallyInvalidInput() {
         expectedException.expect(IllegalArgumentException.class);
