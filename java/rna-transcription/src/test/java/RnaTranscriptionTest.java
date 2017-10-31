@@ -43,7 +43,6 @@ public class RnaTranscriptionTest {
         assertEquals("UGCACCAGAAUU", rnaTranscription.transcribe("ACGTGGTCTTAA"));
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testRnaTranscriptionOfRnaThrowsAnError() {
         expectedException.expect(IllegalArgumentException.class);
