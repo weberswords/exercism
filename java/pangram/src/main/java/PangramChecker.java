@@ -2,7 +2,7 @@ public class PangramChecker {
 
     public boolean isPangram(String input) {
 
-        return false;
-    }
+        return (input == "") ? false : true;
 
+    }
 }
