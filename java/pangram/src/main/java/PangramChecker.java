@@ -6,6 +6,6 @@ public class PangramChecker {
         return input.chars()
                 .filter(i -> i >= 'a' && i <= 'z')
                 .distinct()
-                .count() == 26 ? true : false;
+                .count() == 26;
     }
 }
