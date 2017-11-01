@@ -34,7 +34,6 @@ public class PangramCheckerTest {
         assertFalse(pangramChecker.isPangram("the quick brown fish jumps over the lazy dog"));
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void pangramWithUnderscoresIsRecognizedAsPangram() {
         assertTrue(pangramChecker.isPangram("the_quick_brown_fox_jumps_over_the_lazy_dog"));
