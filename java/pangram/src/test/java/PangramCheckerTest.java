@@ -29,7 +29,6 @@ public class PangramCheckerTest {
         assertFalse(pangramChecker.isPangram("a quick movement of the enemy will jeopardize five gunboats"));
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void anotherPhraseMissingCharacterXIsNotPangram() {
         assertFalse(pangramChecker.isPangram("the quick brown fish jumps over the lazy dog"));
