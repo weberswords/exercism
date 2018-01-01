@@ -21,8 +21,9 @@
 
 .DS_Store
 out/*
-.gradle
+*.gradle
 .idea
+*.iml
 
 
 
