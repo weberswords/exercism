@@ -4,7 +4,7 @@
 		module="sum-of-multiples$sources_2.12"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20180101143713"
+		publication="20180225214955"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
