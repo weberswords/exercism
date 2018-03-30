@@ -1,0 +1,26 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mBobTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stating something[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting gibberish[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking a question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking a numeric question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking gibberish[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- talking forcefully[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- using acronyms in regular speech[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- forceful question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- shouting numbers (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- only numbers (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- question with only numbers (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- shouting with special characters (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- shouting with no exclamation mark (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- statement containing question mark (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- non-letters with question (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- prattling on (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- silence (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- prolonged silence (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- alternate silence (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- multiple line question (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- starting with whitespace (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- ending with whitespace (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- other whitespace (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- non-question ending with whitespace (pending)[0m[0m
